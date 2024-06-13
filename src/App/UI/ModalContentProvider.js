@@ -46,7 +46,7 @@ export default class ModalContentProvider {
               <div class="projects-container">
                 <p class="title">MERN stack:</p>
                 <p class="desc">&nbsp; 
-                  <a href="https://artshole.com/" target="_blank">
+                  <a href="https://artshole.vercel.app/" target="_blank">
                     Artists social network
                   </a>
                 </p>
