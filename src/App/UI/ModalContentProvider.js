@@ -124,6 +124,16 @@ export default class ModalContentProvider {
           <p> Gmail: </p>
           <a href="mailto:merndev0603@gmail.com" target="_blank">
             merndev0603@gmail.com
+          </a> <br/>
+
+          <p> Skype: </p>
+          <a href="#" target="_blank">
+            live:.cid.a2ba1b9f5af6f51d
+          </a> <br/>
+
+          <p> Telegram: </p>
+          <a href="#" target="_blank">
+            @nimbus973
           </a>
         </div>
        `,
