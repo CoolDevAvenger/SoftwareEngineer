@@ -25,14 +25,14 @@ export default class ModalContentProvider {
       },
       projects: {
         title: 'Projects',
-        description: `<div class="projects-container">
+        description: `<!--<div class="projects-container">
                 <p class="title">Three.js:</p>
                 <p class="desc">&nbsp; 
                   <a href="https://app.uniformbuilder.com.au/">
                       Uniform Builder
                   </a>
                 </p>
-              </div>
+              </div>-->
 
               <div class="projects-container">
                 <p class="title">Blockchain:</p>
