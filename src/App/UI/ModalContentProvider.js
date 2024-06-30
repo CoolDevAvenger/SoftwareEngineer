@@ -6,7 +6,7 @@ export default class ModalContentProvider {
         description:`
           <div class="aboutMe-Container">
             <div>
-              <img src="../../Assets/MMM.jpg" alt="Andrzej-image" />
+              <img src="../../Assets/coder.png" alt="Andrzej-image" />
             </div>
             <p>
                I am dedicated to develop web and mobile applications through streamlined interfaces, ultimately fostering a more engaging AI and Blockchain projects.
