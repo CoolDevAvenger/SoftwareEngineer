@@ -6,7 +6,7 @@ export default class ModalContentProvider {
         description:`
           <div class="aboutMe-Container">
             <div>
-              <img src="../../Assets/Sh1.jpg" alt="Andrzej-image" />
+              <img src="../../Assets/MMM.jpg" alt="Andrzej-image" />
             </div>
             <p>
                I am dedicated to develop web and mobile applications through streamlined interfaces, ultimately fostering a more engaging AI and Blockchain projects.
@@ -25,14 +25,14 @@ export default class ModalContentProvider {
       },
       projects: {
         title: 'Projects',
-        description: `<div class="projects-container">
+        description: `<!--<div class="projects-container">
                 <p class="title">Three.js:</p>
                 <p class="desc">&nbsp; 
                   <a href="https://app.uniformbuilder.com.au/">
                       Uniform Builder
                   </a>
                 </p>
-              </div>
+              </div>-->
 
               <div class="projects-container">
                 <p class="title">Blockchain:</p>
