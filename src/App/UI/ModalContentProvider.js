@@ -6,7 +6,7 @@ export default class ModalContentProvider {
         description:`
           <div class="aboutMe-Container">
             <div>
-              <img src="../../Assets/Sh.jpg" alt="Andrzej-image" />
+              <img src="../../Assets/Sh1.jpg" alt="Andrzej-image" />
             </div>
             <p>
                I am dedicated to develop web and mobile applications through streamlined interfaces, ultimately fostering a more engaging AI and Blockchain projects.
@@ -46,7 +46,7 @@ export default class ModalContentProvider {
               <div class="projects-container">
                 <p class="title">MERN stack:</p>
                 <p class="desc">&nbsp; 
-                  <a href="https://artshole.vercel.app/" target="_blank">
+                  <a href="https://artshole.com/" target="_blank">
                     Artists social network
                   </a>
                 </p>
