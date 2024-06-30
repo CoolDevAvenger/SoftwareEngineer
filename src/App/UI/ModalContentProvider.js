@@ -111,10 +111,10 @@ export default class ModalContentProvider {
         title: 'Contact Me',
         description: `
         <div class="contactMe-container">
-          <p> LinkedIn: </p>
+          <!--<p> LinkedIn: </p>
           <a href="https://www.linkedin.com/in/andrzej-doremoniec-92b424312/" target="_blank" >
               www.linkedin.com/in/andrzej-doremoniec-92b424312/
-          </a> <br/>
+          </a> <br/>-->
           
           <p> GitHub: </p>
           <a href="https://github.com/crazedromeo" target="_blank">
