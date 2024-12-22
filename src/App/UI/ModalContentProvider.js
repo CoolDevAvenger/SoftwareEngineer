@@ -25,14 +25,14 @@ export default class ModalContentProvider {
       },
       projects: {
         title: 'Projects',
-        description: `<!--<div class="projects-container">
+        description: `<div class="projects-container">
                 <p class="title">Three.js:</p>
                 <p class="desc">&nbsp; 
                   <a href="https://app.uniformbuilder.com.au/">
                       Uniform Builder
                   </a>
                 </p>
-              </div>-->
+              </div>
 
               <div class="projects-container">
                 <p class="title">Blockchain:</p>
@@ -46,7 +46,7 @@ export default class ModalContentProvider {
               <div class="projects-container">
                 <p class="title">MERN stack:</p>
                 <p class="desc">&nbsp; 
-                  <a href="https://artshole.com/" target="_blank">
+                  <a href="https://artshole.vercel.app/" target="_blank">
                     Artists social network
                   </a>
                 </p>
@@ -122,19 +122,14 @@ export default class ModalContentProvider {
           </a> <br/>
 
           <p> Gmail: </p>
-          <a href="mailto:merndev0603@gmail.com" target="_blank">
+          <a href="mailto:andrzej.working@outlook.com" target="_blank">
             merndev0603@gmail.com
           </a> <br/>
 
-          <p> Skype: </p>
+          <p> Whatsapp: </p>
           <a href="#" target="_blank">
-            live:.cid.a2ba1b9f5af6f51d
+            +1 405 592 0820
           </a> <br/>
-
-          <p> Telegram: </p>
-          <a href="#" target="_blank">
-            @nimbus973
-          </a>
         </div>
        `,
       },
